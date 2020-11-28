@@ -1,0 +1,11 @@
+.about {
+  display: flex;
+  flex-flow: column;
+  background-color: #cccccc;
+  padding: 15px;
+  margin: 0;
+  list-style: none;
+}
+ul {
+  list-style: none;
+}

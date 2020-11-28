@@ -1,0 +1,8 @@
+.home {
+  display: flex;
+  flex-flow: column;
+  background-color: #efefef;
+  color: #222222;
+  padding: 15px;
+  margin: 0;
+}
